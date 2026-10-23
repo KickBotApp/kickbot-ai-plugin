@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "kickbot": {
+      "type": "http",
+      "url": "https://kickbot.com/api/v1/mcp"
+    }
+  }
+}

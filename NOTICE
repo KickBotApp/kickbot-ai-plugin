@@ -1,0 +1,9 @@
+The MIT license covers KickBot's own integration code and documentation.
+It does not grant trademark rights in the KickBot name or logos.
+
+The existing KickBot logo assets in assets/ are excluded from the MIT license.
+They may be included with an unmodified KickBot integration to identify its
+connection to KickBot. Other use of those assets requires KickBot permission.
+
+The KickBot service, dashboard, and hosted MCP server are not part of this
+repository. Their code and access rights are not licensed by this package.

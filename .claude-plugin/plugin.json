@@ -1,0 +1,38 @@
+{
+  "name": "kickbot",
+  "version": "0.1.5",
+  "description": "Manage your Kick stream and KickBot account from chat. Set up chat commands, timed messages, chat alerts, OBS alerts and overlays, text-to-speech, moderation, an AI chatbot, tipping, clips, VODs, and custom widgets.",
+  "author": {
+    "name": "KickBot Inc.",
+    "email": "support@kickbot.com",
+    "url": "https://kickbot.com"
+  },
+  "homepage": "https://kickbot.com",
+  "repository": "https://github.com/KickBotApp/kickbot-ai-plugin",
+  "license": "MIT",
+  "keywords": [
+    "kick",
+    "kick.com",
+    "livestreaming",
+    "streamer",
+    "chatbot",
+    "chat commands",
+    "timers",
+    "chat alerts",
+    "alerts",
+    "obs",
+    "overlays",
+    "widgets",
+    "tts",
+    "text-to-speech",
+    "moderation",
+    "tips",
+    "clips",
+    "vods"
+  ],
+  "icon": "./assets/logo.png",
+  "documentationUrl": "https://docs.kickbot.com/dashboard/api/connect-ai-apps",
+  "supportUrl": "https://docs.kickbot.com/dashboard/api/connect-ai-apps",
+  "privacyPolicyUrl": "https://kickbot.com/privacy-policy",
+  "termsOfServiceUrl": "https://kickbot.com/terms-of-service"
+}
