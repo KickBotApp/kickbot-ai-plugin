@@ -1,5 +1,6 @@
 {
   "name": "kickbot",
+  "displayName": "KickBot",
   "version": "0.1.5",
   "description": "Manage your Kick stream and KickBot account from chat. Set up chat commands, timed messages, chat alerts, OBS alerts and overlays, text-to-speech, moderation, an AI chatbot, tipping, clips, VODs, and custom widgets.",
   "author": {
